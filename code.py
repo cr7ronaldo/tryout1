@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Apr 20 20:02:01 2016
+Created on Wed Apr 10 20:02:01 2016
 
-@author: DP BABAR
+@author: maitreya
 """
-"""Solve the 2D biharmonic equation DW4/Dx4+2DW4/Dx2Dy2+DW4/Dy4=f(x)
+"""Solve the euler bernouli equation DW4/Dx4=f(x)
        subject to the boundary conditions 
        u(-1)=u'(-1)=u(+1)=u'(+1)=0
        Inputs:
